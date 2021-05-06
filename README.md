@@ -54,4 +54,4 @@ Positions and resizing responsive methods by CSS Grid, Flexbox and Media Queries
 
 ## Author
 
-- Frontend Mentor - [@dev-marcussantos](https://www.frontendmentor.io/profile/dev-marcussantos)
+- Marcus Vinícius de Souza Muniz dos Santos - [@dev-marcussantos](https://www.frontendmentor.io/profile/dev-marcussantos)
