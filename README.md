@@ -38,7 +38,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - Flexbox
 - CSS Grid
-- -Media Queries
+- Media Queries
 
 ### What I learned
 
